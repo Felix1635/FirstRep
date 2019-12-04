@@ -1,5 +1,9 @@
 hellgit o world!!!
 12345
 now on github
+<<<<<<< HEAD
 another line from user1
+=======
+line grom user2
+>>>>>>> 9f848cecd1f6bc1d99dc6e1bdc02cc8a89fd3a0c
 line foom user1
